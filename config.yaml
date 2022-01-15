@@ -1,0 +1,396 @@
+# process names are case-insensitive
+# you can use 'master' to indicate the master channel, or a list of process names to create a group
+# you can use 'mic' to control your mic input level (uses the default recording device)
+# windows only - you can use a device's full name, i.e. "Speakers (Realtek High Definition Audio)", to bind it. this works for both output and input devices (experimental)
+# windows only - you can use 'system' to control the "system sounds" volume
+slider_mapping:
+  0: discord.exe
+  1:
+    - Firefox.exe
+    - Msedge.exe
+  2: deej.unmapped
+  3: 
+    - Titanfall2-unpacked.exe
+    - GenerationZero_F.exe
+    - BravoHotelClient.exe
+    - BravoHotelClient-Win64-Shipping.protected.exe
+    - HuntGame.exe
+    - Hunt.exe
+    - LOSTARK.exe
+    - 7DaysToDie.exe
+    - bf.exe
+    - alliance.exe
+    - XwingAlliance.exe
+    - EDF41.exe
+    - DyingLightGame.exe
+    - HaloInfinite.exe
+    - Vanguard.exe
+    - NewWorld.exe
+    - BioShockHD.exe
+    - Borderlands2.exe
+    - Dishonored.exe
+    - Back4Blood.exe
+    - PortalWars-Win64-Shipping.exe
+    - RogueCompany.exe
+    - MCCWinStore-Win64-Shipping.exe
+    - Scavenger-Win64-Shipping.exe
+    - Scavengers.exe
+    - OUTRIDERS-Win64-Shipping.exe
+    - r5apex.exe
+    - RainbowSix.exe
+    - rainbowsix_be.exe
+    - rocketleague.exe
+    - GameClient.exe
+    - Gears of War 4.exe
+    - ModernWarfare.exe
+    - generals.exe
+    - valheim.exe
+    - swtor.exe
+    - Cities.exe
+    - starwarsbattlefrontii.exe
+    - MCC-Win64-Shipping-WinStore.exe
+    - Maine-WinGDK-Shipping.exe
+    - SoTGame.exe
+    - IndianaWindowsStore-Win64-Shipping.exe
+    - GearGame.exe
+    - Gears5.exe
+    - javaw.exe
+    - AimLab_tb.exe
+    - 7DaysToDie.exe
+    - 7DaysToDie_EAC.exe
+    - 7dLauncher.exe
+    - UnityCrashHandler64.exe
+    - Aces Wild.exe
+    - adventure-capitalist.exe
+    - UnityCrashHandler32.exe
+    - Titanfall2.exe
+    - game.exe
+    - AimLab_tb.exe
+    - UnityCrashHandler32.exe
+    - Amnesia.exe
+    - Amnesia_NoSteam.exe
+    - Launcher.exe
+    - Anodyne.exe
+    - joyquery.exe
+    - AnomalyKorea.exe
+    - Awesomenauts.exe
+    - AwesomenautsLauncher.exe
+    - BattleBlockTheater.exe
+    - Blackwake.exe
+    - Tutorial.exe
+    - UnityCrashHandler64.exe
+    - BlockNLoadLauncher.exe
+    - bs1dc.exe
+    - oalinst.exe
+    - CardHunter.exe
+    - castle.exe
+    - Cavern Kings.exe
+    - ChivLauncher.exe
+    - 7za.exe
+    - Configurator.EXE
+    - hl2.exe
+    - Launcher_EP0.EXE
+    - Launcher_EP1.EXE
+    - Launcher_EP2.EXE
+    - Archive.exe
+    - BsSndRpt.exe
+    - RelicCOH.exe
+    - RelicCOHO.exe
+    - WorldBuilder.exe
+    - csgo.exe
+    - Crashlands.exe
+    - Crawl.exe
+    - CrypticError.exe
+    - Neverwinter.exe
+    - Cubemen.exe
+    - vcredist_x86.exe
+    - Culling Of The Cows.exe
+    - uninstall.exe
+    - DayZDiag_x64.exe
+    - DayZLauncher.exe
+    - DayZUninstaller.exe
+    - DayZ_BE.exe
+    - DayZ_x64.exe
+    - DeadIslandGame.exe
+    - Dead Space.exe
+    - testapp.exe
+    - activation.exe
+    - deadspace2.exe
+    - destiny2.exe
+    - miniTicketDbg.exe
+    - DirtyBombLauncher.exe
+    - DOOMx64.exe
+    - DOOMx64vk.exe
+    - CrashWindow.exe
+    - DuckGame.exe
+    - DuckGame.vshost.exe
+    - Duelyst.exe
+    - AutoReporter.exe
+    - DunDefLauncher.exe
+    - QtWebProcess.exe
+    - DLSteamEdition.exe
+    - EdgeOfSpace.exe
+    - Launcher.exe
+    - Eldritch.exe
+    - Eldritch_x86.exe
+    - EndlessSpace.exe
+    - Evolution.exe
+    - UnityCrashHandler64.exe
+    - Fable.exe
+    - splash.exe
+    - Fallout4.exe
+    - Fallout4Launcher.exe
+    - FalloutNV.exe
+    - FalloutNVLauncher.exe
+    - fnv4gb.exe
+    - nvse_loader.exe
+    - DataZip.exe
+    - DXAtlasWin.exe
+    - LegendaryHeroes.exe
+    - LH_prefs_setup.exe
+    - SDActivate.exe
+    - Config.exe
+    - FEAR.exe
+    - FEARMP.exe
+    - FEARServer.exe
+    - fpupdate.exe
+    - WMFADist.exe
+    - FTLGame.exe
+    - Gang Beasts.exe
+    - hl2.exe
+    - gemini_rue_pc.exe
+    - winsetup.exe
+    - GenitalJousting.exe
+    - Golf With Your Friends.exe
+    - UnityCrashHandler64.exe
+    - Game.exe
+    - hl.exe
+    - hlds.exe
+    - hltv.exe
+    - hl2.exe
+    - MCCLauncher.exe
+    - Hammerwatch.exe
+    - Human.exe
+    - Incredipede.exe
+    - fcengine.exe
+    - Interplanetary.exe
+    - Interplanetary.exe
+    - Breach.exe
+    - JediAcademy.exe
+    - jetsetradio.exe
+    - jsrsetup.exe
+    - Killer Queen Black.exe
+    - UnityCrashHandler64.exe
+    - swkotor2.exe
+    - left4dead2.exe
+    - LegendofDungeon.exe
+    - LegendofDungeon_DirectToRift.exe
+    - AwesomiumProcess.exe
+    - awesomium_process.exe
+    - CleanUninstall.exe
+    - lotroclient.exe
+    - turbineclientlauncher.exe
+    - TurbineInvoker.exe
+    - TurbineLauncher.exe
+    - TurbineRegisterGDF.exe
+    - aamfp.exe
+    - aamfp_NoSteam.exe
+    - Launcher.exe
+    - game.exe
+    - MarchOfWar.exe
+    - Launcher.exe
+    - MassEffectLauncher.exe
+    - runme.exe
+    - MassEffect2Launcher.exe
+    - Launcher.exe
+    - LocEditor.exe
+    - MercenaryKings.exe
+    - ParisEditor.vshost.exe
+    - metro2033.exe
+    - metro2033benchmark.exe
+    - MONACO.exe
+    - moonhunters.exe
+    - Editor.exe
+    - FR.exe
+    - MoveOrDie.exe
+    - NationRed.exe
+    - oalinst.exe
+    - LaunchPad.exe
+    - NS2.exe
+    - server.exe
+    - OGAT.exe
+    - Omegalodon.exe
+    - OrganTrail.exe
+    - Outland.exe
+    - PAC-MAN.exe
+    - PapersPlease.exe
+    - payday2_win32_release.exe
+    - payday2_win32_release_vr.exe
+    - pitpeople.exe
+    - BrowserController.exe
+    - CrashUploader.exe
+    - LaunchPad.exe
+    - PlanetSide2_x64.exe
+    - PlanetSide2_x64_BE.exe
+    - Uninstaller.exe
+    - wws_crashreport_uploader.exe
+    - hl2.exe
+    - portal2.exe
+    - PWLauncher.exe
+    - crashpad_handler32.exe
+    - crashpad_handler64.exe
+    - Prison Architect.exe
+    - Prison Architect64.exe
+    - PWNDClient.exe
+    - q2rtx.exe
+    - q2rtxded.exe
+    - Ruse.exe
+    - RedFactionArmageddon.exe
+    - RedFactionArmageddon_DX11.exe
+    - rf4_launcher.exe
+    - vcredist_x86.exe
+    - RFG.exe
+    - rfg_launcher.exe
+    - rfg.exe
+    - RelicHuntersZero.exe
+    - HardwareDetector.exe
+    - riftpatcherrorhandler.exe
+    - riftpatchlive.exe
+    - selfpatchlive.exe
+    - RimWorldWin64.exe
+    - UnityCrashHandler64.exe
+    - Risk of Rain.exe
+    - Risk of Rain 2.exe
+    - UnityCrashHandler64.exe
+    - Robocraft.exe
+    - RobocraftClient.exe
+    - Game.exe
+    - Rockets.exe
+    - Rocksmith2014.exe
+    - RogueLegacy.exe
+    - Roll.exe
+    - RCT2.EXE
+    - sacredcitadel.exe
+    - SR2_pc.exe
+    - game_launcher.exe
+    - SaintsRowTheThird.exe
+    - SaintsRowTheThird_DX11.exe
+    - vcredist_x86.exe
+    - Scythe.exe
+    - UnityCrashHandler32.exe
+    - SEGAGameRoom.exe
+    - SEGAGenesisClassics.exe
+    - ShellShockLive.exe
+    - CivilizationV.exe
+    - CivilizationV_DX11.exe
+    - CivilizationV_Tablet.exe
+    - Launcher.exe
+    - SKSEPatcher-31737-0-0-1.exe
+    - SKSE_loader.exe
+    - SkyrimLauncher.exe
+    - TESV.exe
+    - TESVOriginal.exe
+    - TES_.exe
+    - HKShip.exe
+    - SmashUp.exe
+    - Sniper_x86.exe
+    - ASN_App_PcDx9_Final.exe
+    - Launcher.exe
+    - SpeedRunners.exe
+    - StarRealms.exe
+    - UnityCrashHandler32.exe
+    - runme.exe
+    - runme2.exe
+    - Jedi.EXE
+    - JediKnight.EXE
+    - LaunchRC.exe
+    - Starfighter.exe
+    - SWTFU Launcher.exe
+    - SWTFU.exe
+    - SWTFU_Autorun.exe
+    - unins000.exe
+    - SWTFU2.exe
+    - unins000.exe
+    - starmade-launcher.exe
+    - StarMade-starter.exe
+    - Starwhal.exe
+    - StateOfDecay.exe
+    - CrashSender1402.exe
+    - game.exe
+    - Steam Marines.exe
+    - StellarOverload.exe
+    - dowser.exe
+    - pdx_core_test.exe
+    - stellaris.exe
+    - swconfig.exe
+    - swkotor.exe
+    - swupdate.exe
+    - Tabletop Simulator.exe
+    - UnityCrashHandler64.exe
+    - CefSharp.BrowserSubprocess.exe
+    - Tabletopia.Client.Steam.Observer.exe
+    - Tabletopia.exe
+    - Game.exe
+    - hl2.exe
+    - Teleglitch.exe
+    - TerraformingMars.exe
+    - UnityCrashHandler64.exe
+    - dotNetFx40_Full_setup.exe
+    - dotNetFx40_Full_x86_x64.exe
+    - Terraria.exe
+    - Terraria.Original.exe
+    - TerrariaServer.exe
+    - The Bard's Tale.exe
+    - GLVanHelsing_x86.exe
+    - VanHelsing.exe
+    - VanHelsing_x64.exe
+    - VanHelsing_x64_11.exe
+    - VanHelsing_x86.exe
+    - VanHelsing_x86_11.exe
+    - The Novelist.exe
+    - stanley.exe
+    - launcher.exe
+    - register.exe
+    - portal2.exe
+    - BsSndRpt.exe
+    - Ticket to Ride.exe
+    - Launcher.exe
+    - LauncherReporter.exe
+    - Uninstaller.exe
+    - testapp.exe
+    - tra.exe
+    - hl2.exe
+    - TwilightStruggle.exe
+    - UltimateChickenHorse.exe
+    - UnityCrashHandler64.exe
+    - Unturned.exe
+    - Unturned_BE.exe
+    - Wanderlust.exe
+    - WorldOfWarships.exe
+    - WormsReloaded.exe
+    - YookaLaylee64.exe
+  4:
+    - Bluetooth Audio in (motorola one fusion+ A2DP SNK)
+    - AudioPlaybackConnector64.exe
+  99:
+    - svchost.exe # This totally could fuck with tother stuff
+    - Bluetooth Audio in
+    - Listening to Bluetooth Audio in (motorola one fusion+ A2DP SNK)
+    - motorola one fusion+ A2DP SNK
+    - NvBroadcast.Container.exe
+    - nvcontainer.exe
+    - NVDisplay.Container.exe
+# set this to true if you want the controls inverted (i.e. top is 0%, bottom is 100%)
+invert_sliders: false
+
+# settings for connecting to the arduino board
+com_port: COM5
+baud_rate: 9600
+
+# limits how often deej will look for new processes
+# it's recommended to leave this setting at its default value
+process_refresh_frequency: 5
+
+# adjust the amount of signal noise reduction depending on your hardware quality
+# supported values are "low" (excellent hardware), "default" (regular hardware) or "high" (bad, noisy hardware)
+noise_reduction: default
